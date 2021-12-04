@@ -297,3 +297,13 @@ h1
   background-color: #04AA6D;
   color: white;
 }
+
+
+
+
+#mainheadline
+{
+	color: brown;
+	font-size: 80px;
+	text-align: center;
+}
