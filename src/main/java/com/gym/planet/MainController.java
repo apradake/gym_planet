@@ -36,6 +36,10 @@ public class MainController
 		  return mv;
 	  }
 	 
-	
+	  @RequestMapping("/addmem")
+		public String addnewMember()
+		{
+			return "registernewmember.html";
+		}
 	
 }
